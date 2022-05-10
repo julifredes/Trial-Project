@@ -8,7 +8,7 @@
     <img
       src="../assets/hero-image-mobile.svg"
       alt="heroImage"
-      class="inline-block lg:hidden"
+      class="inline-block w-full lg:hidden"
     />
     <div class="w-full lg:w-8/12 px-7 lg:px-0 absolute text-center">
       <h1 class="font-display text-4.5xl lg:text-6xl text-white mb-6 font-bold">
